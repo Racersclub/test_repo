@@ -1,0 +1,2 @@
+intial commit for cloning 
+echo "first commit"
